@@ -208,7 +208,6 @@ const App = () => {
               </div>
           )}
 
-          {/* Footer */}
           <div className="mt-12 text-center text-gray-400">
             <p className="mb-4">Learn more about Native:</p>
             <div className="flex flex-wrap justify-center gap-4">
