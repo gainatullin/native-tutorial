@@ -196,7 +196,6 @@ const App = () => {
             ))}
           </div>
 
-          {/* Achievement */}
           {progress === 100 && (
               <div className="mt-8 text-center p-6 bg-gradient-to-r from-yellow-400 to-orange-500 rounded-xl">
                 <Trophy className="w-12 h-12 mx-auto mb-4 text-white" />
