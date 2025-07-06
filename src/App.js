@@ -340,7 +340,7 @@ const App = () => {
                         </p>
                         {selectedAnswer === currentQuestion.correctAnswer && (
                             <div className="mt-2 text-sm text-yellow-400">
-                              +{currentQuestion.difficulty === 'easy' ? 10 : currentQuestion.difficulty === 'medium' ? 20 : 30} points
+                              +30 points
                             </div>
                         )}
                       </div>
