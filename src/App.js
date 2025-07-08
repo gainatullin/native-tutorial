@@ -534,7 +534,7 @@ const App = () => {
               <a target="_blank" href="https://x.com/gonativecc" className="hover:text-white transition-colors">
                 🐦 Twitter
               </a>
-              <a target="_blank" href="t.me/Native_Announcement" className="hover:text-white transition-colors">
+              <a target="_blank" href="https://t.me/Native_Announcement" className="hover:text-white transition-colors">
                 📱 Telegram
               </a>
               <a target="_blank" href="https://discord.com/invite/gonative" className="hover:text-white transition-colors">
